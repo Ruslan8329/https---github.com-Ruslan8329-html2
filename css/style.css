@@ -1,0 +1,143 @@
+.about {
+  margin-top: 24px;
+  font-family: "Epilogue", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.work {
+  margin-top: 30px;
+  font-family: "Epilogue", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.contact {
+  margin-top: 32px;
+  font-family: "Epilogue", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.branding {
+  margin-top: 33px;
+  font-family: "Epilogue", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.designer {
+  margin-top: 35px;
+  font-family: "Epilogue", sans-serif;
+  font-size: 68px;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.file {
+  margin-top: 40px;
+  font-family: "Epilogue", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.btn {
+  margin-top: 22px;
+  padding: 22px 64px;
+}
+
+.girl {
+  margin-top: 70px;
+  width: 360px;
+}
+
+.bar {
+  margin-top: 50px;
+  width: 900px;
+}
+
+.skills {
+  margin-top: 60px;
+  padding: 42px 24px;
+}
+
+.gallery {
+  margin-top: 25px;
+  padding: 42px 24px;
+  width: 900px;
+}
+
+.testimonial {
+  margin-top: 50px;
+  padding: 42px 24px;
+}
+
+.lers {
+  margin-top: 40px;
+  font-family: "Epilogue", sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.more {
+  margin-top: 50px;
+  font-family: "Epilogue", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.discord {
+  margin-left: 15px;
+  width: 36px;
+  height: 36px;
+}
+
+.facebook {
+  margin-left: 10px;
+  width: 36px;
+  height: 36px;
+}
+
+.dribble {
+  margin-left: 10px;
+  width: 36px;
+  height: 36px;
+}
+
+.instagram {
+  margin-left: 10px;
+  width: 36px;
+  height: 36px;
+}
+
+.behance {
+  margin-left: 10px;
+  width: 36px;
+  height: 36px;
+}
+
+.name {
+  margin-top: 30px;
+}
+
+.text {
+  margin-top: 5px;
+  min-width: 320px;
+  max-width: 520px;
+  padding: 16px 24px;
+}
+
+.type {
+  margin-top: 5px;
+  min-width: 320px;
+  max-width: 520px;
+  padding: 16px 24px;
+}
+
+.submit {
+  margin-left: 60px;
+  padding: 24px 64px;
+}
